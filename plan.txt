@@ -1,0 +1,14 @@
+1> Create Directory Structure
+
+2>Create NPM project and install all dependancies
+    -Dependancies
+        -express
+        -ejs express-ejs-layouts
+    -dev dependancies
+        -nodemon
+
+3> Create Express server - Create a server.js/index.js file
+
+4> Git setup and first commit
+
+5> Install larvel mix
